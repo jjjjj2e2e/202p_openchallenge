@@ -1,0 +1,27 @@
+@import url(openchallenge.css);
+
+    h1{
+        text-align: center;
+        color: brown;
+    }
+form {
+	background : pink;
+	border-style : none;
+	border-width : 1px;
+	margin-left : 10px;
+	margin-right : 10px;
+}
+p>span {
+	font-family : '맑은 고딕';
+	font-weight : bold;
+	color : blue;
+}
+p {
+	font-family : 'HY수평선B';
+	font-size : 1em;
+	text-indent : 1em;
+}
+footer {
+	border-radius : 10px;
+	background : orange;
+}
